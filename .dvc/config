@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = D:\Data Science\Kifya\KAIM_WEEK3\week3dvc
